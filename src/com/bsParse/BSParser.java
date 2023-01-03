@@ -1,4 +1,4 @@
-package com.parse;
+package com.bsParse;
 
 import java.io.BufferedReader;
 import java.io.File;

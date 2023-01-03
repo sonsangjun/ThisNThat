@@ -1,6 +1,6 @@
 package com;
 
-import com.parse.BSParser;
+import com.bsParse.BSParser;
 
 public class Mainclass {
 
